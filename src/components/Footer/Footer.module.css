@@ -1,0 +1,30 @@
+.foot{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: #0d1117;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    padding: 40px 0;
+}
+.conteiner{
+    color: #357bd0;
+    display: flex;
+    align-items: center;
+    width: 95%;
+}
+.conteiner a{
+    padding-left: 50px;
+}
+.conteiner a:hover{
+    text-decoration: underline;
+}
+.foot hr{
+    width: 95%;
+    border-color: #353535;
+    margin-bottom: 50px;
+    color: #303030;
+}

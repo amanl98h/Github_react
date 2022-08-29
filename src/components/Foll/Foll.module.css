@@ -1,0 +1,25 @@
+.hr{
+    width: 100%;
+    border-color: #353535;
+    color: #303030;
+}
+.avatar_url{
+    width: 55px;
+    border-radius: 100%;
+}
+.card{
+    margin-left: 40px;
+}
+.card_body{
+    width: 40%;
+    display: flex;
+    margin: 15px 0;
+}
+.card_body h3{
+    margin-top: 5px;
+    margin-left: 20px;
+    color: rgb(155, 153, 153);
+}
+.card_body h3:hover{
+    color: rgb(51, 108, 194);
+}
